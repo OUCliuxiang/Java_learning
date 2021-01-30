@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aliyun-java-sdk-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aliyun-java-sdk-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

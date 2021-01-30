@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="junit-3.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xmlbeans-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

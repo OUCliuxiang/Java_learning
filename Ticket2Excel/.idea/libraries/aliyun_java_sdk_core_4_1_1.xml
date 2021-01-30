@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="aliyun-java-sdk-core-4.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aliyun-java-sdk-core-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aliyun-java-sdk-ram-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aliyun-sdk-oss-3.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fastjson-1.2.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpclient-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sun.misc.BASE64Decoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/hamcrest-core-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
